@@ -1,1 +1,2 @@
-# SQL_studydsa
+# SQL_study
+프로그래머스에서 SQL 코테 만점을 위해 꾸준히 공부하기 위해 만듬!
